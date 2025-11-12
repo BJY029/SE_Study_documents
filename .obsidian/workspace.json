@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "298c243bddd2e71f",
+            "id": "fc86bc46cc0d367d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "reference.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.9.14"
+              "icon": "lucide-file",
+              "title": "reference"
             }
           }
         ]
@@ -186,6 +188,10 @@
   "lastOpenFiles": [
     "reference.md",
     "1. Network.md",
+    "Pasted image 20251112223122.png",
+    "Pasted image 20251112221323.png",
+    "Pasted image 20251112201435.png",
+    "Pasted image 20251112181546.png",
     "Pasted image 20251111141850.png",
     "create a link.md"
   ]
