@@ -1,0 +1,3 @@
+- [OSI 모델이란 무엇인가요?- OSI 7계층 설명 - AWS](https://aws.amazon.com/ko/what-is/osi-model/)
+- [OSI 모델이란? | OSI 7계층 | Cloudflare](https://www.cloudflare.com/ko-kr/learning/ddos/glossary/open-systems-interconnection-model-osi/)
+- 
