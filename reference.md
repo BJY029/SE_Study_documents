@@ -1,0 +1,2 @@
+- https://www.redhat.com/ko/topics/open-source/what-is-open-source
+- https://aws.amazon.com/ko/what-is/open-source/
