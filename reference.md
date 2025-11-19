@@ -1,2 +1,22 @@
 - https://www.redhat.com/ko/topics/open-source/what-is-open-source
 - https://aws.amazon.com/ko/what-is/open-source/
+- https://ccl.cckorea.org/about/terms/
+- https://olis.or.kr/license/Detailselect.do?lId=1255
+- https://www.wtfpl.net/about/
+- https://sktelecom.github.io/guide/use/obligation/apache-2.0/
+- https://www.topcit.or.kr/upload/edubox/essence/ess_ko_01/index.html?startpage=128
+- https://www.pingcap.com/article/understanding-copyleft-licenses-and-their-purpose/.
+- https://www.pingcap.com/article/understanding-gpl-license-simple-terms/
+- https://olis.or.kr/license/Detailselect.do?lId=1005
+- https://developer.mozilla.org/ko/docs/Glossary/Git
+- https://kinsta.com/blog/what-is-github/
+- https://docs.github.com/ko/get-started/start-your-journey/about-github-and-git
+- https://aws.amazon.com/ko/docker/
+- https://www.oracle.com/kr/cloud/cloud-native/container-registry/what-is-docker/
+- https://naver.github.io/OpenSourceGuide/book/UsingOss/the-legal-side-of-opensource.html
+- https://www.i-on.net/pr/newsletter/it_news/1246422_2480.html
+- https://git-scm.com/docs
+- https://f-lab.kr/insight/effective-git-branch-strategy
+- https://devocean.sk.com/blog/techBoardDetail.do?ID=165513&boardType=techBlog#none
+- https://devocean.sk.com/blog/techBoardDetail.do?ID=165571&boardType=techBlog
+- 
